@@ -10,7 +10,7 @@
 ### 相关代码
 
 
-```javascript
+``html
 <!DOCTYPE html>
 <html>
 	<head>
